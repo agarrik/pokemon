@@ -1,0 +1,10 @@
+body{
+	font-size: 90%;
+	color: #404040;
+}
+strong{
+	color: #777;
+}
+.card{
+	border:15px solid rgba(0,0,0,.125);
+}
